@@ -1,10 +1,10 @@
+//Hii this online reservation system is made by me "Shubham Kumar" , hope you like it
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class OnlineReservationSystem {
 
-    private static boolean[] seats = new boolean[10]; // initialize an array of 10 seats, all empty
-
+    private static boolean[] seats = new boolean[10]; 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
